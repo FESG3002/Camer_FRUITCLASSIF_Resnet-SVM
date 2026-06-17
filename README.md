@@ -20,7 +20,7 @@ A advanced image recognition application tailored for identifying the most frequ
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FESG3002/cameroon-fruit-recognizer.git
+   git@github.com:FESG3002/Camer_FRUITCLASSIF_Resnet-SVM.git
    cd cameroon-fruit-recognizer
    ```
 2. Install dependencies:
