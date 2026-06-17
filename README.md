@@ -50,7 +50,7 @@ The application targets **Ananas, Oranges, Bananes, Avocats, and Watermelons**. 
 3.  **Fusion & Learning**: Combined features are fed into an SVM classifier for final prediction.
 
 ##  Authors
-- Student Group 7 (University Project)
+- Student from M1 group project from University of Yaounde 1
 
 ##  License
 MIT License
