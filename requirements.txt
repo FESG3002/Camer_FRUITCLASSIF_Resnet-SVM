@@ -1,0 +1,8 @@
+tensorflow==2.7.0
+numpy==1.21.5
+Pillow==8.4.0
+matplotlib==3.5.1
+joblib==1.1.0
+customtkinter==4.6.3
+scikit-learn==1.0.2
+rembg==2.0.30
